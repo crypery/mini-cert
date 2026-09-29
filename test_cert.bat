@@ -1,0 +1,1 @@
+mini-cert.exe -days 3650 -keyout localhost.key -out localhost.crt -subj "/C=US/ST=New York/L=New York/O=MyCompany/CN=localhost"
